@@ -3,12 +3,12 @@
 ### 📦 Auto install link
 (Do NOT run scripts as root, they will prompt for sudo)
 ```bash
-wget https://raw.githubusercontent.com/itiligent/Easy-OpenVAS-Installer/main/openvas-install.sh && chmod +x openvas-install.sh && ./openvas-install.sh
+wget https://raw.githubusercontent.com/4ndr34z/Easy-OpenVAS-Installer/main/openvas-install.sh && chmod +x openvas-install.sh && ./openvas-install.sh
 ```
 
 ### 📦 Auto upgrade link
 ```bash
-wget https://raw.githubusercontent.com/itiligent/Easy-OpenVAS-Installer/main/openvas-upgrade.sh && chmod +x openvas-upgrade.sh  && ./openvas-upgrade.sh 
+wget https://raw.githubusercontent.com/4ndr34z/Easy-OpenVAS-Installer/main/openvas-upgrade.sh && chmod +x openvas-upgrade.sh  && ./openvas-upgrade.sh 
 ```
 
 ##### 💻 Note: On low power systems cached sudo credentials may timeout and re-prompt
